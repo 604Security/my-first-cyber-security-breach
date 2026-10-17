@@ -146,7 +146,7 @@ Quebec and Ontario already have credit freezes.
 
 **My First Cyber Security Breach**: a rhyming picture book for ages 5 to retirement.
 
-- Written by **Kevin Sahota / 604sec++**
+- Written by **Kevin Sahota / 604Security**
 - Co-created by **Megaspy**
 - Technical reviewer: **Ryan Clarke / 604sec++**
 - Published by **604Security**
@@ -155,4 +155,4 @@ Suggestions for this list are welcome. Open an issue or pull request.
 
 ## Licence
 
-The book and this resource list are © 2026 Kevin Sahota / 604sec++, licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Share freely with credit; no selling and no altered versions. See `LICENSE`. Linked sites belong to their owners.
+This resource list is © 2026 Kevin Sahota / 604Security, and the book is © 2026 Kevin Sahota / 604sec++; both are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Share freely with credit; no selling and no altered versions. See `LICENSE`. Linked sites belong to their owners.
