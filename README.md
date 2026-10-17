@@ -66,7 +66,6 @@ what they use. Check again after big updates.
 - [Nintendo Switch parental controls](https://www.nintendo.com/en-ca/switch/parental-controls/)
 - [Xbox Family Hub](https://www.xbox.com/en-CA/family-hub)
 - [PlayStation parental controls](https://www.playstation.com/en-ca/parental-controls/)
-- [Roblox parental controls](https://about.roblox.com/parental-controls) and [managing chat settings](https://about.roblox.com/newsroom/2025/11/how-to-manage-child-chat-settings-roblox)
 
 ### Kids' privacy
 
