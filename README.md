@@ -121,7 +121,7 @@ Check the **privacy settings**, **turn off or limit chat**, and set spending lim
 
 **My First Cyber Security Breach**: a rhyming picture book for ages 5 to retirement.
 
-- Written by **Kevin Sahota / 604Security**
+- Written by **Kevin Sahota / 604sec++**
 - Co-created by **Megaspy**
 - Technical reviewer: **Ryan Clarke / 604sec++**
 
@@ -129,4 +129,4 @@ Suggestions for this list are welcome. Open an issue or pull request.
 
 ## Licence
 
-This resource list is © 2026 Kevin Sahota / 604Security, licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Share freely with credit; no selling and no altered versions. See `LICENSE`. Linked sites belong to their owners.
+This resource list is © 2026 Kevin Sahota / 604sec++, licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Share freely with credit; no selling and no altered versions. See `LICENSE`. Linked sites belong to their owners.
