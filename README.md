@@ -15,8 +15,9 @@ The focus is **Canada and British Columbia**, with government and non-profit sou
 
 ## 📖 Read the book together
 
-- **[My First Cyber Security Breach (PDF)](https://github.com/604Security/my-first-cyber-security-breach/raw/main/book/my-first-cyber-security-breach.pdf)**: read it on a screen.
-- **[Home-print version (PDF)](https://github.com/604Security/my-first-cyber-security-breach/raw/main/book/my-first-cyber-security-breach-home-print.pdf)**: print at home on US Letter,
+- **[Phone version (PDF, 2 MB)](https://github.com/604Security/my-first-cyber-security-breach/raw/main/book/my-first-cyber-security-breach-phone.pdf)**: quick download for phones and tablets.
+- **[Full quality (PDF, 14 MB)](https://github.com/604Security/my-first-cyber-security-breach/raw/main/book/my-first-cyber-security-breach.pdf)**: best for big screens.
+- **[Home-print version (PDF, 14 MB)](https://github.com/604Security/my-first-cyber-security-breach/raw/main/book/my-first-cyber-security-breach-home-print.pdf)**: print at home on US Letter,
   landscape, at 100% (it has a white margin so nothing gets cut off).
 
 Free to share with credit (see Licence below). At the back: Hoot's Cyber Words, a **Certified White Hat** certificate
