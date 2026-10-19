@@ -136,7 +136,7 @@ Quebec and Ontario already have credit freezes.
 | Black Hat | A bad hacker who breaks in to steal or cause trouble. Like the Byte Bandit. |
 | Credit Freeze / Fraud Alert | Grown-up tools that stop bad guys from opening accounts in your name. |
 | Data Breach | When a bad guy gets into a computer and takes information that's meant to be private. |
-| Hacker | Someone who loves learning about technology and is really good at figuring out how computers work, and how to get into them. |
+| Hacker | Someone who loves learning about technology and is really good at figuring out how computers work. |
 | Handle | A made-up name we use online to keep our real name private, like Megaspy and Hoot. |
 | Legacy System | A really old computer that everyone's scared to touch. |
 | MFA (Multi-Factor Authentication) | A second lock on your account: after your password, you also need something else, like a code from your phone. |
